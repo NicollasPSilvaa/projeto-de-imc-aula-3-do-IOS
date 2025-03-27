@@ -1,5 +1,5 @@
-let altura = 1.62
-let peso
+let altura = 1.69
+let peso = 74
 let imc = peso / (altura * altura);
 
 if (imc < 17) {
